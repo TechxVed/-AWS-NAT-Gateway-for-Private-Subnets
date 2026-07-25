@@ -10,6 +10,8 @@ This project demonstrates how to configure an **AWS NAT Gateway** to provide **s
 
 It builds on a custom VPC architecture consisting of public and private subnets, an Internet Gateway, Route Tables, and Amazon EC2 instances.
 
+Before this :- https://github.com/TechxVed/-AWS-Custom-VPC-with-Public-Private-Subnets for better understanding!
+
 ---
 
 # 📖 Table of Contents
@@ -43,9 +45,7 @@ AWS **NAT Gateway** solves this problem by allowing instances in a private subne
 
 # 🏗️ Architecture
 
-<p align="center">
-  <img src="images/vpc-nat-architecture.png" alt="AWS NAT Gateway Architecture" width="900">
-</p>
+![architecture](images/vpc-nat-architecture.png)
 
 ---
 
